@@ -1,0 +1,13 @@
+cd -  troca de pastas
+d: - vai para o diretorio D
+cd.. - retorna uma pasta
+cls limpa o cmd
+
+
+
+==========================================
+
+git init - inicializa o git
+git status - mostra o documento
+git add (nome do arquivo) - adiciona o arquivo no git
+git commit -a -m "texto de auteração"
