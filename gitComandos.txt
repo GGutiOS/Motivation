@@ -5,13 +5,15 @@ cls limpa o cmd
 
 
 
+para configutar o git na maquina crie um arquivo vazio e segue o 
+passo a passo do novo repositorio
+
 ==========================================
 
 git init - inicializa o git
 git status - mostra o documento
 git add (nome do arquivo) - adiciona o arquivo no git
 git commit -a -m "texto de auteração"
-
-
+git push -  posta o arquivo no github
 
 ==============================================
